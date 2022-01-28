@@ -1,6 +1,6 @@
 #Analysis of the cars data set in R
 
-##autores: 
+##autores: Sebastian  
 
 
 **Parte 1**
