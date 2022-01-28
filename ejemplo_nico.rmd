@@ -18,6 +18,6 @@ hist(cars$speed)
 
 the mean speed of cars was `r mean(cars$speed)`.
 
-
+##this is not the end
 
 #THE END 
